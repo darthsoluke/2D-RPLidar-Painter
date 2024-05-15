@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>gl.frag</file>
+        <file>gl.vert</file>
+    </qresource>
+</RCC>
